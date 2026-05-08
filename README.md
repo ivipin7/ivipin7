@@ -101,7 +101,7 @@ const vipin = {
 <h3 align="center">🧠 HireSense</h3>
 <div align="center">
 <a href="https://github.com/ivipin7/HireSense" target="_blank"><img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
-<a href="https://hiresense.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://hiresense-gcc.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 <p align="center">AI-powered GCC recruitment & candidate evaluation platform. Intelligent filtering, role-based dashboards, and structured screening workflows.</p>
 <p align="center">
@@ -115,7 +115,7 @@ const vipin = {
 <h3 align="center">💊 PillBridge</h3>
 <div align="center">
 <a href="https://github.com/ivipin7/PillBridge-" target="_blank"><img src="https://img.shields.io/badge/Code-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
-<a href="https://pillbridge.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://pill-bridge.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live-7B2FBE?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </div>
 <p align="center">Elderly-friendly medication & healthcare management system. Smart reminders, caregiver dashboards, and real-time emergency alerts.</p>
 <p align="center">
