@@ -201,7 +201,7 @@ const vipin = {
 </picture>
 </div>
 
-> ⚙️ To activate the snake animation: create a GitHub Action in your profile repo using [Platane/snk](https://github.com/Platane/snk) and push output to the `output` branch.
+> ⚙️ Snake animation is generated automatically by GitHub Actions and published to the `output` branch.
 
 ---
 
