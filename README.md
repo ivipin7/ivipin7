@@ -185,38 +185,6 @@ const vipin = {
 
 ---
 
-## 📈 Contribution Calendar
-
-<div align="center">
-<img src="https://ghchart.rshah.org/ivipin7" alt="GitHub contribution calendar for ivipin7" />
-</div>
-
-<p align="center">This heatmap shows your public contribution pattern across the calendar, so visitors can read your activity at a glance.</p>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivipin7&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&hide_border=true&custom_title=Live+Contribution+Activity" />
-</div>
-
-<p align="center">This graph reflects your public contribution activity and updates as GitHub records new events.</p>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ivipin7/ivipin7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ivipin7/ivipin7/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ivipin7/ivipin7/output/github-snake.svg" />
-</picture>
-</div>
-
-> ⚙️ Snake animation is generated automatically by GitHub Actions for <code>ivipin7</code> and published to the <code>output</code> branch.
-
 ---
 
 ## 📫 Let's Connect
