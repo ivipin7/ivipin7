@@ -168,7 +168,7 @@ const vipin = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Pulse
 
 <div align="center">
 
@@ -182,6 +182,16 @@ const vipin = {
 </div>
 
 <p align="center">These cards are driven by live GitHub profile data and refresh automatically.</p>
+
+---
+
+## 📈 Contribution Calendar
+
+<div align="center">
+<img src="https://ghchart.rshah.org/ivipin7" alt="GitHub contribution calendar for ivipin7" />
+</div>
+
+<p align="center">This heatmap shows your public contribution pattern across the calendar, so visitors can read your activity at a glance.</p>
 
 ---
 

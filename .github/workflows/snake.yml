@@ -14,6 +14,10 @@ jobs:
     permissions:
       contents: write
 
+    concurrency:
+      group: snake-animation
+      cancel-in-progress: true
+
     steps:
       - name: Generate snake svg
         uses: Platane/snk/svg-only@v3
@@ -28,5 +32,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          force_orphan: true
+          commit_message: "chore: update snake animation"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
