@@ -172,8 +172,8 @@ const vipin = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivipin7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivipin7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivipin7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7B2FBE&text_color=FFFFFF&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivipin7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&cache_seconds=1800"/>
 
 </div>
 
@@ -181,13 +181,17 @@ const vipin = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivipin7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7B2FBE&fire=00D9FF&currStreakLabel=00D9FF" />
 </div>
 
+<p align="center">These cards are driven by live GitHub profile data and refresh automatically.</p>
+
 ---
 
 ## 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivipin7&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivipin7&bg_color=0D1117&color=00D9FF&line=7B2FBE&point=00D9FF&area=true&hide_border=true&custom_title=Live+Contribution+Activity" />
 </div>
+
+<p align="center">This graph reflects your public contribution activity and updates as GitHub records new events.</p>
 
 ---
 
@@ -201,7 +205,7 @@ const vipin = {
 </picture>
 </div>
 
-> ⚙️ Snake animation is generated automatically by GitHub Actions and published to the `output` branch.
+> ⚙️ Snake animation is generated automatically by GitHub Actions for <code>ivipin7</code> and published to the <code>output</code> branch.
 
 ---
 
